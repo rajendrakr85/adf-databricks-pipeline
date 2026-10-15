@@ -1,0 +1,15 @@
+{
+	"name": "qa-adf-server-1510",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "koreacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e1a65892-214b-44a3-b6a5-034f3e9483bd",
+		"tenantId": "81328ffe-99e1-4fe5-a843-18fe225489ec"
+	}
+}
